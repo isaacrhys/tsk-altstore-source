@@ -12,13 +12,13 @@
       "versionDate": "2025-12-12",
       "versionDescription": "Alpha testing release!",
       "downloadURL": "https://github.com/isaacrhys/tsk-altstore-source/raw/refs/heads/main/TSK%20Alpha%201.0.ipa",
-      "iconURL": "https://github.com/isaacrhys/tsk-altstore-source/blob/main/TSKIcon.png",
+      "iconURL": "https://raw.githubusercontent.com/isaacrhys/tsk-altstore-source/main/TSKIcon.png",
       "tintColor": "FFFFFF",
       "screenshots": [
-        "https://github.com/isaacrhys/tsk-altstore-source/blob/main/IMG_0951.PNG",
-        "https://github.com/isaacrhys/tsk-altstore-source/blob/main/IMG_0947.PNG",
-        "https://github.com/isaacrhys/tsk-altstore-source/blob/main/IMG_0945.PNG",
-        "https://github.com/isaacrhys/tsk-altstore-source/blob/main/IMG_0943.PNG"
+        "https://raw.githubusercontent.com/isaacrhys/tsk-altstore-source/main/IMG_0951.PNG",
+        "https://raw.githubusercontent.com/isaacrhys/tsk-altstore-source/main/IMG_0947.PNG",
+        "https://raw.githubusercontent.com/isaacrhys/tsk-altstore-source/main/IMG_0945.PNG",
+        "https://raw.githubusercontent.com/isaacrhys/tsk-altstore-source/main/IMG_0943.PNG"
       ],
       "size": 0
     }
