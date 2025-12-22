@@ -10,8 +10,8 @@
       "localizedDescription": "A work, life, and school planner app ran locally. No database, offline usage and an easier and intuitive way to manage your time.",
       "version": "Alpha 1.01",
       "versionDate": "2025-12-12",
-      "versionDescription": "Bug fixes and improvements.",
-      "downloadURL": "https://github.com/isaacrhys/tsk-altstore-source/raw/refs/heads/main/TSK%20Alpha%201.01.ipa",
+      "versionDescription": "Revamped Add Task button,added Insights button to view weekly summary. Also added animations for holidays such as Christmas and New Years. Updated work tasks to be more informative and intuitive. Bug Fixes."
+      "downloadURL": "https://github.com/isaacrhys/tsk-altstore-source/raw/refs/heads/main/TSK%20Alpha%201.02.ipa",
       "iconURL": "https://raw.githubusercontent.com/isaacrhys/tsk-altstore-source/main/TSKIcon.png",
       "tintColor": "FFFFFF",
       "screenshots": [
