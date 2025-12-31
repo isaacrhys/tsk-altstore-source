@@ -10,7 +10,7 @@
       "localizedDescription": "A work, life, and school planner app ran locally. No database, offline usage and an easier and intuitive way to manage your time. Premium features are available such as sleep insights, and financing.",
       "version": "Beta 1.2",
       "versionDate": "2025-12-31",
-      "versionDescription": "Improved UI. Bug fixes.",
+      "versionDescription": "Improved UI. Bug fixes. Introducing Premium!",
       "downloadURL": "https://github.com/isaacrhys/tsk-altstore-source/raw/refs/heads/main/TSK%20Beta%201.2.ipa",
       "iconURL": "https://github.com/isaacrhys/tsk-altstore-source/blob/main/TSKIcon.png",
       "tintColor": "2A2727",
